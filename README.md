@@ -20,7 +20,7 @@ Nowadays flutter is going to be popular for developing applications for Mobile a
 
 **Good Links**: [how manage SEO in flutter web](https://stackoverflow.com/questions/71634738/how-manage-seo-in-flutter-web)
 
-<br/>
+---
 
 
 sample
