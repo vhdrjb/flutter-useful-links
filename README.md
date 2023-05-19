@@ -5,10 +5,10 @@ In this repository me and anyone who is interested will put useful links for flu
 
 Follow this structure if you want to add any links:
 
-Title of article (h3) (link to article)
-first paragraph of content of link
-your opinion or any notes (optional)
-related links (optional)
+- Title of article (h3) (link to article)
+- first paragraph of content of link
+- your opinion or any notes (optional)
+- related links (optional)
 
 
 example:
