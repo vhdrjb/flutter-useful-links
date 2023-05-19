@@ -1,4 +1,4 @@
-# flutter-useful-links
+# Flutter useful links
 In this repository me and anyone who is interested will put useful links for flutter developers.
 
 ## Contributing 
